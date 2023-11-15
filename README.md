@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## プロジェクト
+- [私のポートフォリオ](https://github.com/Yoshiki0418/portfolio)
+- [オープンソースへの貢献](https://github.com/Yoshiki0418/open-source)
 <!--
 **Yoshiki0418/Yoshiki0418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
