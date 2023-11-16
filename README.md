@@ -2,7 +2,9 @@
 
 ## プロジェクト
 - [私のポートフォリオ](https://github.com/Yoshiki0418/portfolio)
-- [オープンソースへの貢献](https://github.com/Yoshiki0418/open-source)
+
+- https://github-readme-stats.vercel.app/api/top-langs/?username=<Yoshiki0418>&layout=compact
+
 <!--
 **Yoshiki0418/Yoshiki0418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
