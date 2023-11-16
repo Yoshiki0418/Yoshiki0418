@@ -3,8 +3,8 @@
 ## プロジェクト
 - [私のポートフォリオ](https://github.com/Yoshiki0418/portfolio)
 
-- https://github-readme-stats.vercel.app/api/top-langs/?username=<Yoshiki0418>&layout=compact
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<Yoshiki0418>&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshiki0418&layout=compact)
+
 
 <!--
 **Yoshiki0418/Yoshiki0418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
