@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Profile views](https://gpvc.arturio.dev/Yoshiki0418)
+
+
 ## プロジェクト
 - [私のポートフォリオ](https://github.com/Yoshiki0418/portfolio)
 
