@@ -3,7 +3,8 @@
 ## プロジェクト
 - [私のポートフォリオ](https://github.com/Yoshiki0418/portfolio)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshiki0418&layout=compact)
+![Yoshiki0418's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yoshiki0418&theme=xcode)
+
 ![Yoshiki0418's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoshiki0418&show_icons=true)
 
 
