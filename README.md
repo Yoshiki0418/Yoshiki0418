@@ -6,6 +6,8 @@
 
 ![Yoshiki0418's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yoshiki0418&theme=xcode)
 
+![Yoshiki0418's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoshiki0418&show_icons=true)
+
 
 
 
