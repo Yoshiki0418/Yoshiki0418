@@ -2,7 +2,7 @@
 
 
 ## プロジェクト
-- [私のポートフォリオ](https://github.com/Yoshiki0418/portfolio)
+Coming soon
 
 ![Yoshiki0418's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoshiki0418&show_icons=true)
 
