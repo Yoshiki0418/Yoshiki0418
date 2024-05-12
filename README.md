@@ -1,9 +1,9 @@
 AIエンジニアを目指す大学生です。今まで作ってきた作品や学習帳をまとめています。
 
 ## ハッカソン作品
-* [Azure OpenAI 学生向けハッカソン](https://github.com/noboRu5525/Azure-hackathon)
+* [Azure OpenAI 学生向けハッカソン](https://github.com/noboRu5525/Azure-hackathon) (🇯🇵代表選出)
 * [OpenHackU2024 in Tokyo](https://github.com/Yoshiki0418/yahoo.hack)
-* [ダイナソン2023](https://github.com/Yoshiki0418/Dynason-works) 
+* [ダイナソン2023](https://github.com/Yoshiki0418/Dynason-works) (🏆最優秀賞受賞)
 
 ## 独自開発
 * [食材管理アプリケーション](https://github.com/Yoshiki0418/PD_project)
