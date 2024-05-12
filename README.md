@@ -1,6 +1,8 @@
  <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=Yoshiki0418" />
  </p>
+
+
  
 AIエンジニアを目指す大学生です。今まで作ってきた作品や学習帳をまとめています。
 
@@ -22,7 +24,10 @@ AIエンジニアを目指す大学生です。今まで作ってきた作品や
 
 
 <br>
-git hubで管理していなかったデータを少しずつ移行しています...
+<h1><img src="https://i.pinimg.com/originals/5e/e9/29/5ee9293496f50d9034889bb80d1e8fd5.gif" width="50">
+We are starting to migrate unmanaged data to GitHub
+<img src="https://i.pinimg.com/originals/5e/e9/29/5ee9293496f50d9034889bb80d1e8fd5.gif" width="50"></h1>
+
 
 
 
