@@ -1,3 +1,7 @@
+ <p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=Yoshiki0418" />
+ </p>
+ 
 AIエンジニアを目指す大学生です。今まで作ってきた作品や学習帳をまとめています。
 
 ## ハッカソン作品
