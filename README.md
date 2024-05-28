@@ -16,7 +16,7 @@ AIエンジニアを目指す大学生です。今まで作ってきた作品や
 
 ## AI学習
 * [機械学習](https://github.com/Yoshiki0418/Machine_Learning)
-* [深層学習](https://github.com/Yoshiki0418/Deep_Learning)
+* [深層学習](https://github.com/Yoshiki0418/Deep_Learning) (準備中)
 
 ## 執筆
 * [食材管理アプリケーションを制作した話](https://zenn.dev/yoshi_tech/articles/ad3aaa1cd55c73)
