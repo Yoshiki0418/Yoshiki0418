@@ -27,9 +27,9 @@ AIエンジニアを目指す大学生です。今まで作ってきた作品や
 
 
 <br>
-<h1><img src="https://i.pinimg.com/originals/5e/e9/29/5ee9293496f50d9034889bb80d1e8fd5.gif" width="50">
-We are starting to migrate unmanaged data to GitHub
-<img src="https://i.pinimg.com/originals/5e/e9/29/5ee9293496f50d9034889bb80d1e8fd5.gif" width="50"></h1>
+<h1>
+Keep Going Forward
+<img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3687042/5447d22d-c716-4ee8-5c9e-1b7c7bb6e1b3.gif" width="200"></h1>
 
 
 
