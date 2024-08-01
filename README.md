@@ -7,7 +7,7 @@
 AIエンジニアを目指す大学生です。今まで作ってきた作品や学習帳をまとめています。
 
 ## コンペ
-* [DL基礎講座 最終課題 MEGコンペティション](https://github.com/Yoshiki0418/dl_lecture_competition_pub/tree/MEG-competition)
+* [DL基礎講座 最終課題 MEGコンペティション](https://github.com/Yoshiki0418/dl_lecture_competition_pub/tree/MEG-competition)(39位/206人)
 
 ## ハッカソン作品
 * [Azure OpenAI 学生向けハッカソン](https://github.com/noboRu5525/Azure-hackathon) (🇯🇵代表選出)
