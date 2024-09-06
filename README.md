@@ -8,6 +8,7 @@ AIエンジニアを目指す大学生です。今まで作ってきた作品や
 
 ## コンペ
 * [DL基礎講座 最終課題 MEGコンペティション](https://github.com/Yoshiki0418/dl_lecture_competition_pub/tree/MEG-competition)(39位/206人)
+* [Axell-AI-Contest-2024](https://github.com/Yoshiki0418/Axell-AI-Contest-2024)
 
 ## ハッカソン作品
 * [Azure OpenAI 学生向けハッカソン](https://github.com/noboRu5525/Azure-hackathon) (🇯🇵代表選出)
@@ -16,10 +17,6 @@ AIエンジニアを目指す大学生です。今まで作ってきた作品や
 
 ## 独自開発
 * [食材管理アプリケーション](https://github.com/Yoshiki0418/PD_project)
-
-## AI学習
-* [機械学習](https://github.com/Yoshiki0418/Machine_Learning)
-* [深層学習](https://github.com/Yoshiki0418/Deep_Learning) 
 
 ## 執筆
 * [食材管理アプリケーションを制作した話](https://zenn.dev/yoshi_tech/articles/ad3aaa1cd55c73)
