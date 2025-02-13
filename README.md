@@ -8,7 +8,8 @@ AIエンジニアを目指す大学生です。今まで作ってきた作品や
 
 ## コンペ
 * [DL基礎講座 最終課題 MEGコンペティション](https://github.com/Yoshiki0418/dl_lecture_competition_pub/tree/MEG-competition)(39位/206人)
-* [Axell-AI-Contest-2024](https://github.com/Yoshiki0418/Axell-AI-Contest-2024)🥉
+* [Axell-AI-Contest-2024](https://github.com/Yoshiki0418/Axell-AI-Contest-2024)🥉(26位/84人投稿)
+* [（金融庁共催）第３回金融データ活用チャレンジ](https://github.com/Yoshiki0418/financial-data-challenge)🥉(77位/705人投稿)
 
 ## ハッカソン作品
 * [Azure OpenAI 学生向けハッカソン](https://github.com/noboRu5525/Azure-hackathon) (🇯🇵代表選出)
