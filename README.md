@@ -23,6 +23,7 @@ AIエンジニアを目指す大学生です。今まで作ってきた作品や
 * [食材管理アプリケーションを制作した話](https://zenn.dev/yoshi_tech/articles/ad3aaa1cd55c73)
 
 ## 掲載記事
+* [【研究夢考房Start Up Project Data Dreamersが優勝】2024年1月27日に日本マイクロソフト品川本社で行われた生成AIをテーマとしたAzure OpenAI Service 大学生向けハッカソンで](https://www.kanazawa-it.ac.jp/kitnews/2024/0202_Data_Dreamers.html)
 * [【Data Dreamersが金融データ活用推進協会（FDUA）賞 学生部門３位】
 金融業界最大のデータ分析コンペティション「（金融庁共催）第３回金融データ活用チャレンジ」で](https://www.kanazawa-it.ac.jp/kitnews/2025/0421_DataDreamers.html)
 
