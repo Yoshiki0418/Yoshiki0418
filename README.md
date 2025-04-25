@@ -22,7 +22,9 @@ AIエンジニアを目指す大学生です。今まで作ってきた作品や
 ## 執筆
 * [食材管理アプリケーションを制作した話](https://zenn.dev/yoshi_tech/articles/ad3aaa1cd55c73)
 
-
+## 掲載記事
+* [【Data Dreamersが金融データ活用推進協会（FDUA）賞 学生部門３位】
+金融業界最大のデータ分析コンペティション「（金融庁共催）第３回金融データ活用チャレンジ」で](https://www.kanazawa-it.ac.jp/kitnews/2025/0421_DataDreamers.html)
 
 
 
